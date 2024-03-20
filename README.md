@@ -1,5 +1,8 @@
 Build times for rules\_go builds with already fetched external deps.
 
+See:
+https://github.com/bazelbuild/rules_go/issues/3897 Somewhat slow runs for clean builds of rules_go builder and stdlib
+
 Results for:
 
 bazel: 6.5
